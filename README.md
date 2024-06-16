@@ -1,3 +1,5 @@
+![Laptop Price Predictor](laptop.png)
+
 # Laptop Price Prediction Project
 
 ## Overview
