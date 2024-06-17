@@ -24,7 +24,10 @@ To set up this project, follow these steps:
     ```bash
     streamlit run main.py
 
-This will start the web app, which can be accessed via your web browser at `http://localhost:8501`.
+## Hosted Application
+The Streamlit app is available online for easier access and interaction. Experience the live version of the Laptop Price Prediction app hosted on the Streamlit public cloud:
+
+[View Laptop Price Predictor App](https://laptoppriceprediction-jduuebvmvywontrdbzkhwr.streamlit.app/)
 
 ## Features
 - **Prediction**: Allows users to input laptop specifications through a friendly UI and get price predictions.
